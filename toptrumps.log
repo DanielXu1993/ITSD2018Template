@@ -1,0 +1,5266 @@
+the complete deck :
+350r 1 9 2 3 0
+Avenger 2 5 4 3 2
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Hawk 1 3 2 4 0
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+m50 1 10 2 2 0
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Avenger 2 5 4 3 2
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Hawk 1 3 2 4 0
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+m50 1 10 2 2 0
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Avenger 2 5 4 3 2
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Hawk 1 3 2 4 0
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+m50 1 10 2 2 0
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Orion 10 1 6 2 9
+-----------------------------------------------
+deck after it has been shuffled :
+Constellation 4 5 7 3 4
+m50 1 10 2 2 0
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+Constellation 4 5 7 3 4
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Avenger 2 5 4 3 2
+Sabre 2 7 2 5 0
+Hornet 2 5 3 4 1
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Vanguard 3 4 5 5 2
+Merchantman 7 3 5 6 8
+Carrack 6 2 10 4 6
+Carrack 6 2 10 4 6
+Orion 10 1 6 2 9
+Orion 10 1 6 2 9
+Vanguard 3 4 5 5 2
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Hawk 1 3 2 4 0
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Idris 8 2 7 10 6
+Hornet 2 5 3 4 1
+-----------------------------------------------
+You's cards :
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+
+AI player1's cards :
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Merchantman 7 3 5 6 8
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+
+AI player2's cards :
+Avenger 2 5 4 3 2
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Carrack 6 2 10 4 6
+Orion 10 1 6 2 9
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+
+AI player3's cards :
+Constellation 4 5 7 3 4
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+
+AI player4's cards :
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+
+-----------------------------------------------
+Round Number: 1, active player: AI player3
+ Range has been selected,value is : 7
+current cards in play: 
+You:Merchantman 7 3 5 6 8
+AI player1:m50 1 10 2 2 0
+AI player2:Avenger 2 5 4 3 2
+AI player3:Constellation 4 5 7 3 4
+AI player4:Vanguard 3 4 5 5 2
+You's cards :
+m50 1 10 2 2 0
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+
+AI player1's cards :
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Merchantman 7 3 5 6 8
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+
+AI player2's cards :
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Carrack 6 2 10 4 6
+Orion 10 1 6 2 9
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+
+AI player3's cards :
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+Vanguard 3 4 5 5 2
+
+AI player4's cards :
+Idris 8 2 7 10 6
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+
+-----------------------------------------------
+Round Number: 2, active player: AI player3
+ Range has been selected,value is : 7
+current cards in play: 
+You:m50 1 10 2 2 0
+AI player1:Hawk 1 3 2 4 0
+AI player2:Hawk 1 3 2 4 0
+AI player3:Constellation 4 5 7 3 4
+AI player4:Idris 8 2 7 10 6
+communal pile cards:
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Hawk 1 3 2 4 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+You's cards :
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+
+AI player1's cards :
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Merchantman 7 3 5 6 8
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+
+AI player2's cards :
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Carrack 6 2 10 4 6
+Orion 10 1 6 2 9
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+
+AI player3's cards :
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+Vanguard 3 4 5 5 2
+
+AI player4's cards :
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+
+-----------------------------------------------
+Round Number: 3, active player: AI player3
+ Speed has been selected,value is : 9
+current cards in play: 
+You:Avenger 2 5 4 3 2
+AI player1:Orion 10 1 6 2 9
+AI player2:Sabre 2 7 2 5 0
+AI player3:350r 1 9 2 3 0
+AI player4:Hornet 2 5 3 4 1
+AI player3 take communal pile cards
+You's cards :
+Avenger 2 5 4 3 2
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+
+AI player1's cards :
+Sabre 2 7 2 5 0
+Merchantman 7 3 5 6 8
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+
+AI player2's cards :
+350r 1 9 2 3 0
+Carrack 6 2 10 4 6
+Orion 10 1 6 2 9
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+
+AI player3's cards :
+350r 1 9 2 3 0
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Hawk 1 3 2 4 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+
+AI player4's cards :
+Hurricane 2 5 3 5 0
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+
+-----------------------------------------------
+Round Number: 4, active player: AI player3
+ Speed has been selected,value is : 9
+current cards in play: 
+You:Avenger 2 5 4 3 2
+AI player1:Sabre 2 7 2 5 0
+AI player2:350r 1 9 2 3 0
+AI player3:350r 1 9 2 3 0
+AI player4:Hurricane 2 5 3 5 0
+communal pile cards:
+Avenger 2 5 4 3 2
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+You's cards :
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+
+AI player1's cards :
+Merchantman 7 3 5 6 8
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+
+AI player2's cards :
+Carrack 6 2 10 4 6
+Orion 10 1 6 2 9
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+
+AI player3's cards :
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Hawk 1 3 2 4 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+
+AI player4's cards :
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+
+-----------------------------------------------
+Round Number: 5, active player: AI player3
+ Range has been selected,value is : 5
+current cards in play: 
+You:Carrack 6 2 10 4 6
+AI player1:Merchantman 7 3 5 6 8
+AI player2:Carrack 6 2 10 4 6
+AI player3:Vanguard 3 4 5 5 2
+AI player4:Orion 10 1 6 2 9
+communal pile cards:
+Avenger 2 5 4 3 2
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Merchantman 7 3 5 6 8
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+You's cards :
+Sabre 2 7 2 5 0
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+
+AI player1's cards :
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+
+AI player2's cards :
+Orion 10 1 6 2 9
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+
+AI player3's cards :
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Hawk 1 3 2 4 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+
+AI player4's cards :
+Idris 8 2 7 10 6
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+
+-----------------------------------------------
+Round Number: 6, active player: AI player3
+ Size has been selected,value is : 10
+current cards in play: 
+You:Sabre 2 7 2 5 0
+AI player1:Vanguard 3 4 5 5 2
+AI player2:Orion 10 1 6 2 9
+AI player3:Orion 10 1 6 2 9
+AI player4:Idris 8 2 7 10 6
+communal pile cards:
+Avenger 2 5 4 3 2
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Merchantman 7 3 5 6 8
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+You's cards :
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+
+AI player1's cards :
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+
+AI player2's cards :
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+
+AI player3's cards :
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Hawk 1 3 2 4 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+
+AI player4's cards :
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+
+-----------------------------------------------
+Round Number: 7, active player: AI player3
+ Firepower has been selected,value is : 4
+current cards in play: 
+You:Merchantman 7 3 5 6 8
+AI player1:Avenger 2 5 4 3 2
+AI player2:m50 1 10 2 2 0
+AI player3:Hawk 1 3 2 4 0
+AI player4:Hurricane 2 5 3 5 0
+You take communal pile cards
+You's cards :
+Hurricane 2 5 3 5 0
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Merchantman 7 3 5 6 8
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+
+AI player1's cards :
+Constellation 4 5 7 3 4
+
+AI player2's cards :
+Hornet 2 5 3 4 1
+
+AI player3's cards :
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Hawk 1 3 2 4 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+
+AI player4's cards :
+Idris 8 2 7 10 6
+
+-----------------------------------------------
+Round Number: 8, active player: You
+ Cargo has been selected,value is : 0
+current cards in play: 
+You:Hurricane 2 5 3 5 0
+AI player1:Constellation 4 5 7 3 4
+AI player2:Hornet 2 5 3 4 1
+AI player3:Carrack 6 2 10 4 6
+AI player4:Idris 8 2 7 10 6
+communal pile cards:
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+You's cards :
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Merchantman 7 3 5 6 8
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Hornet 2 5 3 4 1
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Hawk 1 3 2 4 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 9, active player: You
+ Cargo has been selected,value is : 8
+current cards in play: 
+You:Merchantman 7 3 5 6 8
+AI player3:Hornet 2 5 3 4 1
+You take communal pile cards
+You's cards :
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Merchantman 7 3 5 6 8
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Hawk 1 3 2 4 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 10, active player: You
+ Cargo has been selected,value is : 2
+current cards in play: 
+You:Avenger 2 5 4 3 2
+AI player3:Merchantman 7 3 5 6 8
+You's cards :
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Merchantman 7 3 5 6 8
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+m50 1 10 2 2 0
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Hawk 1 3 2 4 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 11, active player: AI player3
+ Speed has been selected,value is : 10
+current cards in play: 
+You:m50 1 10 2 2 0
+AI player3:m50 1 10 2 2 0
+communal pile cards:
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+You's cards :
+Hawk 1 3 2 4 0
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Merchantman 7 3 5 6 8
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Hawk 1 3 2 4 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 12, active player: AI player3
+ Speed has been selected,value is : 5
+current cards in play: 
+You:Hawk 1 3 2 4 0
+AI player3:Avenger 2 5 4 3 2
+AI player3 take communal pile cards
+You's cards :
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Merchantman 7 3 5 6 8
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Constellation 4 5 7 3 4
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Hawk 1 3 2 4 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hawk 1 3 2 4 0
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 13, active player: AI player3
+ Range has been selected,value is : 7
+current cards in play: 
+You:Hurricane 2 5 3 5 0
+AI player3:Constellation 4 5 7 3 4
+You's cards :
+Avenger 2 5 4 3 2
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Merchantman 7 3 5 6 8
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Hawk 1 3 2 4 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hawk 1 3 2 4 0
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 14, active player: AI player3
+ Range has been selected,value is : 5
+current cards in play: 
+You:Avenger 2 5 4 3 2
+AI player3:Vanguard 3 4 5 5 2
+You's cards :
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Merchantman 7 3 5 6 8
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Avenger 2 5 4 3 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Hawk 1 3 2 4 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hawk 1 3 2 4 0
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 15, active player: AI player3
+ Speed has been selected,value is : 5
+current cards in play: 
+You:Sabre 2 7 2 5 0
+AI player3:Avenger 2 5 4 3 2
+You's cards :
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Merchantman 7 3 5 6 8
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Sabre 2 7 2 5 0
+Avenger 2 5 4 3 2
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Hawk 1 3 2 4 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hawk 1 3 2 4 0
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 16, active player: You
+ Cargo has been selected,value is : 0
+current cards in play: 
+You:350r 1 9 2 3 0
+AI player3:Orion 10 1 6 2 9
+You's cards :
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Merchantman 7 3 5 6 8
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Sabre 2 7 2 5 0
+Avenger 2 5 4 3 2
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Hawk 1 3 2 4 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hawk 1 3 2 4 0
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 17, active player: AI player3
+ Speed has been selected,value is : 7
+current cards in play: 
+You:350r 1 9 2 3 0
+AI player3:Sabre 2 7 2 5 0
+You's cards :
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Merchantman 7 3 5 6 8
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Sabre 2 7 2 5 0
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Hawk 1 3 2 4 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hawk 1 3 2 4 0
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 18, active player: You
+ Cargo has been selected,value is : 0
+current cards in play: 
+You:Hurricane 2 5 3 5 0
+AI player3:350r 1 9 2 3 0
+communal pile cards:
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+You's cards :
+Carrack 6 2 10 4 6
+Merchantman 7 3 5 6 8
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Sabre 2 7 2 5 0
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Hawk 1 3 2 4 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hawk 1 3 2 4 0
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 19, active player: You
+ Cargo has been selected,value is : 6
+current cards in play: 
+You:Carrack 6 2 10 4 6
+AI player3:Hornet 2 5 3 4 1
+You take communal pile cards
+You's cards :
+Merchantman 7 3 5 6 8
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Sabre 2 7 2 5 0
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Hawk 1 3 2 4 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hawk 1 3 2 4 0
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 20, active player: You
+ Cargo has been selected,value is : 8
+current cards in play: 
+You:Merchantman 7 3 5 6 8
+AI player3:m50 1 10 2 2 0
+You's cards :
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Sabre 2 7 2 5 0
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Hawk 1 3 2 4 0
+Hawk 1 3 2 4 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hawk 1 3 2 4 0
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 21, active player: You
+ Cargo has been selected,value is : 6
+current cards in play: 
+You:Carrack 6 2 10 4 6
+AI player3:Hawk 1 3 2 4 0
+You's cards :
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Sabre 2 7 2 5 0
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Hawk 1 3 2 4 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hawk 1 3 2 4 0
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 22, active player: You
+ Cargo has been selected,value is : 2
+current cards in play: 
+You:Vanguard 3 4 5 5 2
+AI player3:Hawk 1 3 2 4 0
+You's cards :
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Sabre 2 7 2 5 0
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hawk 1 3 2 4 0
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 23, active player: You
+ Cargo has been selected,value is : 9
+current cards in play: 
+You:Orion 10 1 6 2 9
+AI player3:Constellation 4 5 7 3 4
+You's cards :
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Sabre 2 7 2 5 0
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hawk 1 3 2 4 0
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 24, active player: You
+ Cargo has been selected,value is : 0
+current cards in play: 
+You:Sabre 2 7 2 5 0
+AI player3:Idris 8 2 7 10 6
+You's cards :
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Sabre 2 7 2 5 0
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hawk 1 3 2 4 0
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Idris 8 2 7 10 6
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 25, active player: AI player3
+ Speed has been selected,value is : 5
+current cards in play: 
+You:Vanguard 3 4 5 5 2
+AI player3:Avenger 2 5 4 3 2
+You's cards :
+Orion 10 1 6 2 9
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Sabre 2 7 2 5 0
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Merchantman 7 3 5 6 8
+Hawk 1 3 2 4 0
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 26, active player: AI player3
+ Cargo has been selected,value is : 8
+current cards in play: 
+You:Orion 10 1 6 2 9
+AI player3:Merchantman 7 3 5 6 8
+You's cards :
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Sabre 2 7 2 5 0
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Merchantman 7 3 5 6 8
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Hawk 1 3 2 4 0
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 27, active player: You
+ Cargo has been selected,value is : 9
+current cards in play: 
+You:Orion 10 1 6 2 9
+AI player3:Hawk 1 3 2 4 0
+You's cards :
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Sabre 2 7 2 5 0
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 28, active player: You
+ Cargo has been selected,value is : 6
+current cards in play: 
+You:Idris 8 2 7 10 6
+AI player3:Avenger 2 5 4 3 2
+You's cards :
+Merchantman 7 3 5 6 8
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Sabre 2 7 2 5 0
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 29, active player: You
+ Cargo has been selected,value is : 8
+current cards in play: 
+You:Merchantman 7 3 5 6 8
+AI player3:m50 1 10 2 2 0
+You's cards :
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Sabre 2 7 2 5 0
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+m50 1 10 2 2 0
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 30, active player: You
+ Cargo has been selected,value is : 1
+current cards in play: 
+You:Hornet 2 5 3 4 1
+AI player3:m50 1 10 2 2 0
+You's cards :
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Sabre 2 7 2 5 0
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 31, active player: You
+ Cargo has been selected,value is : 0
+current cards in play: 
+You:Hurricane 2 5 3 5 0
+AI player3:Hurricane 2 5 3 5 0
+communal pile cards:
+Hurricane 2 5 3 5 0
+Hurricane 2 5 3 5 0
+You's cards :
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Sabre 2 7 2 5 0
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 32, active player: You
+ Cargo has been selected,value is : 4
+current cards in play: 
+You:Constellation 4 5 7 3 4
+AI player3:Constellation 4 5 7 3 4
+communal pile cards:
+Hurricane 2 5 3 5 0
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Constellation 4 5 7 3 4
+You's cards :
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Sabre 2 7 2 5 0
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 33, active player: You
+ Cargo has been selected,value is : 1
+current cards in play: 
+You:Hornet 2 5 3 4 1
+AI player3:Avenger 2 5 4 3 2
+AI player3 take communal pile cards
+You's cards :
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Sabre 2 7 2 5 0
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Constellation 4 5 7 3 4
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 34, active player: AI player3
+ Range has been selected,value is : 5
+current cards in play: 
+You:Carrack 6 2 10 4 6
+AI player3:Vanguard 3 4 5 5 2
+You's cards :
+Idris 8 2 7 10 6
+Sabre 2 7 2 5 0
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Constellation 4 5 7 3 4
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 35, active player: You
+ Cargo has been selected,value is : 6
+current cards in play: 
+You:Idris 8 2 7 10 6
+AI player3:350r 1 9 2 3 0
+You's cards :
+Sabre 2 7 2 5 0
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+350r 1 9 2 3 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Constellation 4 5 7 3 4
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 36, active player: You
+ Cargo has been selected,value is : 0
+current cards in play: 
+You:Sabre 2 7 2 5 0
+AI player3:Orion 10 1 6 2 9
+You's cards :
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+350r 1 9 2 3 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Sabre 2 7 2 5 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 37, active player: AI player3
+ Speed has been selected,value is : 7
+current cards in play: 
+You:Avenger 2 5 4 3 2
+AI player3:Sabre 2 7 2 5 0
+You's cards :
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+350r 1 9 2 3 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+Avenger 2 5 4 3 2
+Sabre 2 7 2 5 0
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 38, active player: AI player3
+ Firepower has been selected,value is : 10
+current cards in play: 
+You:350r 1 9 2 3 0
+AI player3:Idris 8 2 7 10 6
+You's cards :
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+350r 1 9 2 3 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+Avenger 2 5 4 3 2
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Idris 8 2 7 10 6
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 39, active player: AI player3
+ Range has been selected,value is : 5
+current cards in play: 
+You:Sabre 2 7 2 5 0
+AI player3:Vanguard 3 4 5 5 2
+You's cards :
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+350r 1 9 2 3 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Avenger 2 5 4 3 2
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+Avenger 2 5 4 3 2
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Idris 8 2 7 10 6
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 40, active player: AI player3
+ Speed has been selected,value is : 5
+current cards in play: 
+You:Carrack 6 2 10 4 6
+AI player3:Avenger 2 5 4 3 2
+You's cards :
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+350r 1 9 2 3 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+Avenger 2 5 4 3 2
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Idris 8 2 7 10 6
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 41, active player: AI player3
+ Speed has been selected,value is : 5
+current cards in play: 
+You:Hornet 2 5 3 4 1
+AI player3:Hornet 2 5 3 4 1
+communal pile cards:
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+You's cards :
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+350r 1 9 2 3 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+Avenger 2 5 4 3 2
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Idris 8 2 7 10 6
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 42, active player: AI player3
+ Speed has been selected,value is : 5
+current cards in play: 
+You:Hurricane 2 5 3 5 0
+AI player3:Avenger 2 5 4 3 2
+communal pile cards:
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+You's cards :
+350r 1 9 2 3 0
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+350r 1 9 2 3 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Hurricane 2 5 3 5 0
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+Avenger 2 5 4 3 2
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Idris 8 2 7 10 6
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 43, active player: AI player3
+ Speed has been selected,value is : 5
+current cards in play: 
+You:350r 1 9 2 3 0
+AI player3:Hurricane 2 5 3 5 0
+You take communal pile cards
+You's cards :
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+Avenger 2 5 4 3 2
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Idris 8 2 7 10 6
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 44, active player: You
+ Cargo has been selected,value is : 8
+current cards in play: 
+You:Merchantman 7 3 5 6 8
+AI player3:Hurricane 2 5 3 5 0
+You's cards :
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Constellation 4 5 7 3 4
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+Avenger 2 5 4 3 2
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Idris 8 2 7 10 6
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 45, active player: You
+ Cargo has been selected,value is : 0
+current cards in play: 
+You:m50 1 10 2 2 0
+AI player3:Constellation 4 5 7 3 4
+You's cards :
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+Avenger 2 5 4 3 2
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Idris 8 2 7 10 6
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Constellation 4 5 7 3 4
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 46, active player: AI player3
+ Range has been selected,value is : 7
+current cards in play: 
+You:Carrack 6 2 10 4 6
+AI player3:Constellation 4 5 7 3 4
+You's cards :
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+Avenger 2 5 4 3 2
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Idris 8 2 7 10 6
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Constellation 4 5 7 3 4
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 47, active player: You
+ Cargo has been selected,value is : 0
+current cards in play: 
+You:Hawk 1 3 2 4 0
+AI player3:Sabre 2 7 2 5 0
+communal pile cards:
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+You's cards :
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Orion 10 1 6 2 9
+Avenger 2 5 4 3 2
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Idris 8 2 7 10 6
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Constellation 4 5 7 3 4
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 48, active player: You
+ Cargo has been selected,value is : 2
+current cards in play: 
+You:Vanguard 3 4 5 5 2
+AI player3:Orion 10 1 6 2 9
+AI player3 take communal pile cards
+You's cards :
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Avenger 2 5 4 3 2
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Idris 8 2 7 10 6
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Constellation 4 5 7 3 4
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 49, active player: AI player3
+ Speed has been selected,value is : 5
+current cards in play: 
+You:Hawk 1 3 2 4 0
+AI player3:Avenger 2 5 4 3 2
+You's cards :
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Idris 8 2 7 10 6
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Constellation 4 5 7 3 4
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+Avenger 2 5 4 3 2
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 50, active player: AI player3
+ Speed has been selected,value is : 7
+current cards in play: 
+You:Orion 10 1 6 2 9
+AI player3:Sabre 2 7 2 5 0
+You's cards :
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+350r 1 9 2 3 0
+Idris 8 2 7 10 6
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Constellation 4 5 7 3 4
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+Avenger 2 5 4 3 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 51, active player: AI player3
+ Speed has been selected,value is : 9
+current cards in play: 
+You:Constellation 4 5 7 3 4
+AI player3:350r 1 9 2 3 0
+You's cards :
+Orion 10 1 6 2 9
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Idris 8 2 7 10 6
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Constellation 4 5 7 3 4
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+Avenger 2 5 4 3 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 52, active player: AI player3
+ Firepower has been selected,value is : 10
+current cards in play: 
+You:Orion 10 1 6 2 9
+AI player3:Idris 8 2 7 10 6
+You's cards :
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Constellation 4 5 7 3 4
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+Avenger 2 5 4 3 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 53, active player: AI player3
+ Speed has been selected,value is : 7
+current cards in play: 
+You:Merchantman 7 3 5 6 8
+AI player3:Sabre 2 7 2 5 0
+You's cards :
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Vanguard 3 4 5 5 2
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Constellation 4 5 7 3 4
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+Avenger 2 5 4 3 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 54, active player: AI player3
+ Range has been selected,value is : 5
+current cards in play: 
+You:Orion 10 1 6 2 9
+AI player3:Vanguard 3 4 5 5 2
+You's cards :
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Vanguard 3 4 5 5 2
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Constellation 4 5 7 3 4
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+Avenger 2 5 4 3 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 55, active player: You
+ Cargo has been selected,value is : 0
+current cards in play: 
+You:Hawk 1 3 2 4 0
+AI player3:Carrack 6 2 10 4 6
+You's cards :
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Vanguard 3 4 5 5 2
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Constellation 4 5 7 3 4
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+Avenger 2 5 4 3 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 56, active player: AI player3
+ Speed has been selected,value is : 5
+current cards in play: 
+You:Idris 8 2 7 10 6
+AI player3:Avenger 2 5 4 3 2
+You's cards :
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Vanguard 3 4 5 5 2
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+m50 1 10 2 2 0
+Constellation 4 5 7 3 4
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+Avenger 2 5 4 3 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 57, active player: AI player3
+ Speed has been selected,value is : 10
+current cards in play: 
+You:Avenger 2 5 4 3 2
+AI player3:m50 1 10 2 2 0
+You's cards :
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Vanguard 3 4 5 5 2
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Constellation 4 5 7 3 4
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+Avenger 2 5 4 3 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 58, active player: AI player3
+ Range has been selected,value is : 7
+current cards in play: 
+You:Merchantman 7 3 5 6 8
+AI player3:Constellation 4 5 7 3 4
+You's cards :
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Vanguard 3 4 5 5 2
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+Avenger 2 5 4 3 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Merchantman 7 3 5 6 8
+Constellation 4 5 7 3 4
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 59, active player: AI player3
+ Range has been selected,value is : 5
+current cards in play: 
+You:m50 1 10 2 2 0
+AI player3:Vanguard 3 4 5 5 2
+You's cards :
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Vanguard 3 4 5 5 2
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+Avenger 2 5 4 3 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Merchantman 7 3 5 6 8
+Constellation 4 5 7 3 4
+m50 1 10 2 2 0
+Vanguard 3 4 5 5 2
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 60, active player: AI player3
+ Size has been selected,value is : 10
+current cards in play: 
+You:Hornet 2 5 3 4 1
+AI player3:Orion 10 1 6 2 9
+You's cards :
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Vanguard 3 4 5 5 2
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+Avenger 2 5 4 3 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Merchantman 7 3 5 6 8
+Constellation 4 5 7 3 4
+m50 1 10 2 2 0
+Vanguard 3 4 5 5 2
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 61, active player: AI player3
+ Firepower has been selected,value is : 4
+current cards in play: 
+You:m50 1 10 2 2 0
+AI player3:Hawk 1 3 2 4 0
+You's cards :
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Vanguard 3 4 5 5 2
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+Avenger 2 5 4 3 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Merchantman 7 3 5 6 8
+Constellation 4 5 7 3 4
+m50 1 10 2 2 0
+Vanguard 3 4 5 5 2
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 62, active player: AI player3
+ Speed has been selected,value is : 7
+current cards in play: 
+You:Carrack 6 2 10 4 6
+AI player3:Sabre 2 7 2 5 0
+You's cards :
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Vanguard 3 4 5 5 2
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Hawk 1 3 2 4 0
+Avenger 2 5 4 3 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Merchantman 7 3 5 6 8
+Constellation 4 5 7 3 4
+m50 1 10 2 2 0
+Vanguard 3 4 5 5 2
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 63, active player: AI player3
+ Firepower has been selected,value is : 4
+current cards in play: 
+You:Vanguard 3 4 5 5 2
+AI player3:Hawk 1 3 2 4 0
+You's cards :
+Idris 8 2 7 10 6
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Vanguard 3 4 5 5 2
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Avenger 2 5 4 3 2
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Merchantman 7 3 5 6 8
+Constellation 4 5 7 3 4
+m50 1 10 2 2 0
+Vanguard 3 4 5 5 2
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 64, active player: You
+ Cargo has been selected,value is : 6
+current cards in play: 
+You:Idris 8 2 7 10 6
+AI player3:Avenger 2 5 4 3 2
+You's cards :
+350r 1 9 2 3 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Vanguard 3 4 5 5 2
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Merchantman 7 3 5 6 8
+Constellation 4 5 7 3 4
+m50 1 10 2 2 0
+Vanguard 3 4 5 5 2
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 65, active player: You
+ Cargo has been selected,value is : 0
+current cards in play: 
+You:350r 1 9 2 3 0
+AI player3:Orion 10 1 6 2 9
+You's cards :
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Vanguard 3 4 5 5 2
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Merchantman 7 3 5 6 8
+Constellation 4 5 7 3 4
+m50 1 10 2 2 0
+Vanguard 3 4 5 5 2
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 66, active player: AI player3
+ Speed has been selected,value is : 7
+current cards in play: 
+You:350r 1 9 2 3 0
+AI player3:Sabre 2 7 2 5 0
+You's cards :
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Vanguard 3 4 5 5 2
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Merchantman 7 3 5 6 8
+Constellation 4 5 7 3 4
+m50 1 10 2 2 0
+Vanguard 3 4 5 5 2
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 67, active player: You
+ Cargo has been selected,value is : 0
+current cards in play: 
+You:Hurricane 2 5 3 5 0
+AI player3:Constellation 4 5 7 3 4
+You's cards :
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Vanguard 3 4 5 5 2
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Merchantman 7 3 5 6 8
+Constellation 4 5 7 3 4
+m50 1 10 2 2 0
+Vanguard 3 4 5 5 2
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 68, active player: AI player3
+ Speed has been selected,value is : 9
+current cards in play: 
+You:Hornet 2 5 3 4 1
+AI player3:350r 1 9 2 3 0
+You's cards :
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Vanguard 3 4 5 5 2
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Orion 10 1 6 2 9
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Merchantman 7 3 5 6 8
+Constellation 4 5 7 3 4
+m50 1 10 2 2 0
+Vanguard 3 4 5 5 2
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+350r 1 9 2 3 0
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 69, active player: AI player3
+ Size has been selected,value is : 10
+current cards in play: 
+You:Hornet 2 5 3 4 1
+AI player3:Orion 10 1 6 2 9
+You's cards :
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Vanguard 3 4 5 5 2
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Merchantman 7 3 5 6 8
+Constellation 4 5 7 3 4
+m50 1 10 2 2 0
+Vanguard 3 4 5 5 2
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 70, active player: AI player3
+ Firepower has been selected,value is : 10
+current cards in play: 
+You:Hurricane 2 5 3 5 0
+AI player3:Idris 8 2 7 10 6
+You's cards :
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Vanguard 3 4 5 5 2
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Merchantman 7 3 5 6 8
+Constellation 4 5 7 3 4
+m50 1 10 2 2 0
+Vanguard 3 4 5 5 2
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 71, active player: AI player3
+ Cargo has been selected,value is : 8
+current cards in play: 
+You:Avenger 2 5 4 3 2
+AI player3:Merchantman 7 3 5 6 8
+You's cards :
+Merchantman 7 3 5 6 8
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Vanguard 3 4 5 5 2
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Merchantman 7 3 5 6 8
+Constellation 4 5 7 3 4
+m50 1 10 2 2 0
+Vanguard 3 4 5 5 2
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 72, active player: AI player3
+ Speed has been selected,value is : 7
+current cards in play: 
+You:Merchantman 7 3 5 6 8
+AI player3:Sabre 2 7 2 5 0
+You's cards :
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Vanguard 3 4 5 5 2
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Merchantman 7 3 5 6 8
+Constellation 4 5 7 3 4
+m50 1 10 2 2 0
+Vanguard 3 4 5 5 2
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 73, active player: AI player3
+ Firepower has been selected,value is : 4
+current cards in play: 
+You:Hurricane 2 5 3 5 0
+AI player3:Hawk 1 3 2 4 0
+You's cards :
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Vanguard 3 4 5 5 2
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+Hurricane 2 5 3 5 0
+Hawk 1 3 2 4 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Merchantman 7 3 5 6 8
+Constellation 4 5 7 3 4
+m50 1 10 2 2 0
+Vanguard 3 4 5 5 2
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 74, active player: You
+ Cargo has been selected,value is : 6
+current cards in play: 
+You:Carrack 6 2 10 4 6
+AI player3:Carrack 6 2 10 4 6
+communal pile cards:
+Carrack 6 2 10 4 6
+Carrack 6 2 10 4 6
+You's cards :
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Vanguard 3 4 5 5 2
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+Hurricane 2 5 3 5 0
+Hawk 1 3 2 4 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Merchantman 7 3 5 6 8
+Constellation 4 5 7 3 4
+m50 1 10 2 2 0
+Vanguard 3 4 5 5 2
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 75, active player: You
+ Cargo has been selected,value is : 4
+current cards in play: 
+You:Constellation 4 5 7 3 4
+AI player3:Idris 8 2 7 10 6
+AI player3 take communal pile cards
+You's cards :
+Orion 10 1 6 2 9
+Vanguard 3 4 5 5 2
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+Hurricane 2 5 3 5 0
+Hawk 1 3 2 4 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Merchantman 7 3 5 6 8
+Constellation 4 5 7 3 4
+m50 1 10 2 2 0
+Vanguard 3 4 5 5 2
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Carrack 6 2 10 4 6
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 76, active player: AI player3
+ Speed has been selected,value is : 5
+current cards in play: 
+You:Orion 10 1 6 2 9
+AI player3:Avenger 2 5 4 3 2
+You's cards :
+Vanguard 3 4 5 5 2
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+Hurricane 2 5 3 5 0
+Hawk 1 3 2 4 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Merchantman 7 3 5 6 8
+Constellation 4 5 7 3 4
+m50 1 10 2 2 0
+Vanguard 3 4 5 5 2
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Carrack 6 2 10 4 6
+Orion 10 1 6 2 9
+Avenger 2 5 4 3 2
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 77, active player: AI player3
+ Speed has been selected,value is : 5
+current cards in play: 
+You:Vanguard 3 4 5 5 2
+AI player3:Avenger 2 5 4 3 2
+You's cards :
+Vanguard 3 4 5 5 2
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+Hurricane 2 5 3 5 0
+Hawk 1 3 2 4 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+m50 1 10 2 2 0
+Merchantman 7 3 5 6 8
+Constellation 4 5 7 3 4
+m50 1 10 2 2 0
+Vanguard 3 4 5 5 2
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Carrack 6 2 10 4 6
+Orion 10 1 6 2 9
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 78, active player: AI player3
+ Speed has been selected,value is : 10
+current cards in play: 
+You:Vanguard 3 4 5 5 2
+AI player3:m50 1 10 2 2 0
+You's cards :
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+Hurricane 2 5 3 5 0
+Hawk 1 3 2 4 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Merchantman 7 3 5 6 8
+Constellation 4 5 7 3 4
+m50 1 10 2 2 0
+Vanguard 3 4 5 5 2
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Carrack 6 2 10 4 6
+Orion 10 1 6 2 9
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+m50 1 10 2 2 0
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 79, active player: AI player3
+ Cargo has been selected,value is : 8
+current cards in play: 
+You:Hawk 1 3 2 4 0
+AI player3:Merchantman 7 3 5 6 8
+You's cards :
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+Hurricane 2 5 3 5 0
+Hawk 1 3 2 4 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Constellation 4 5 7 3 4
+m50 1 10 2 2 0
+Vanguard 3 4 5 5 2
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Carrack 6 2 10 4 6
+Orion 10 1 6 2 9
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Merchantman 7 3 5 6 8
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 80, active player: AI player3
+ Range has been selected,value is : 7
+current cards in play: 
+You:Idris 8 2 7 10 6
+AI player3:Constellation 4 5 7 3 4
+communal pile cards:
+Idris 8 2 7 10 6
+Constellation 4 5 7 3 4
+You's cards :
+Avenger 2 5 4 3 2
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+Hurricane 2 5 3 5 0
+Hawk 1 3 2 4 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+m50 1 10 2 2 0
+Vanguard 3 4 5 5 2
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Carrack 6 2 10 4 6
+Orion 10 1 6 2 9
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Merchantman 7 3 5 6 8
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 81, active player: AI player3
+ Speed has been selected,value is : 10
+current cards in play: 
+You:Avenger 2 5 4 3 2
+AI player3:m50 1 10 2 2 0
+AI player3 take communal pile cards
+You's cards :
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+Hurricane 2 5 3 5 0
+Hawk 1 3 2 4 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Vanguard 3 4 5 5 2
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Carrack 6 2 10 4 6
+Orion 10 1 6 2 9
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Constellation 4 5 7 3 4
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 82, active player: AI player3
+ Range has been selected,value is : 5
+current cards in play: 
+You:350r 1 9 2 3 0
+AI player3:Vanguard 3 4 5 5 2
+You's cards :
+Sabre 2 7 2 5 0
+Hurricane 2 5 3 5 0
+Hawk 1 3 2 4 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Carrack 6 2 10 4 6
+Orion 10 1 6 2 9
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Vanguard 3 4 5 5 2
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 83, active player: AI player3
+ Speed has been selected,value is : 5
+current cards in play: 
+You:Sabre 2 7 2 5 0
+AI player3:Hornet 2 5 3 4 1
+You's cards :
+Hurricane 2 5 3 5 0
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Hornet 2 5 3 4 1
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Orion 10 1 6 2 9
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Carrack 6 2 10 4 6
+Orion 10 1 6 2 9
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Vanguard 3 4 5 5 2
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 84, active player: You
+ Cargo has been selected,value is : 0
+current cards in play: 
+You:Hurricane 2 5 3 5 0
+AI player3:Orion 10 1 6 2 9
+You's cards :
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Hornet 2 5 3 4 1
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Carrack 6 2 10 4 6
+Orion 10 1 6 2 9
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Vanguard 3 4 5 5 2
+Hurricane 2 5 3 5 0
+Orion 10 1 6 2 9
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 85, active player: AI player3
+ Speed has been selected,value is : 10
+current cards in play: 
+You:Hawk 1 3 2 4 0
+AI player3:m50 1 10 2 2 0
+You's cards :
+Sabre 2 7 2 5 0
+Hornet 2 5 3 4 1
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Hawk 1 3 2 4 0
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Carrack 6 2 10 4 6
+Orion 10 1 6 2 9
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Vanguard 3 4 5 5 2
+Hurricane 2 5 3 5 0
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 86, active player: AI player3
+ Firepower has been selected,value is : 4
+current cards in play: 
+You:Sabre 2 7 2 5 0
+AI player3:Hawk 1 3 2 4 0
+You's cards :
+Hornet 2 5 3 4 1
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Carrack 6 2 10 4 6
+Orion 10 1 6 2 9
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Vanguard 3 4 5 5 2
+Hurricane 2 5 3 5 0
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 87, active player: You
+ Cargo has been selected,value is : 1
+current cards in play: 
+You:Hornet 2 5 3 4 1
+AI player3:Carrack 6 2 10 4 6
+You's cards :
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Carrack 6 2 10 4 6
+Orion 10 1 6 2 9
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Vanguard 3 4 5 5 2
+Hurricane 2 5 3 5 0
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 88, active player: AI player3
+ Speed has been selected,value is : 7
+current cards in play: 
+You:Sabre 2 7 2 5 0
+AI player3:Sabre 2 7 2 5 0
+communal pile cards:
+Sabre 2 7 2 5 0
+Sabre 2 7 2 5 0
+You's cards :
+Hawk 1 3 2 4 0
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Carrack 6 2 10 4 6
+Orion 10 1 6 2 9
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Vanguard 3 4 5 5 2
+Hurricane 2 5 3 5 0
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+Round Number: 89, active player: AI player3
+ Speed has been selected,value is : 9
+current cards in play: 
+You:Hawk 1 3 2 4 0
+AI player3:350r 1 9 2 3 0
+AI player3 take communal pile cards
+You: no cards left's cards :
+
+AI player1: no cards left's cards :
+
+AI player2: no cards left's cards :
+
+AI player3's cards :
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Carrack 6 2 10 4 6
+Orion 10 1 6 2 9
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Vanguard 3 4 5 5 2
+Hurricane 2 5 3 5 0
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+Sabre 2 7 2 5 0
+
+AI player4: no cards left's cards :
+
+-----------------------------------------------
+The winner was AI player3, they won 48 rounds
+You lost overall, but won 26 rounds
+AI player1 lost overall, but won 0 rounds
+AI player2 lost overall, but won 0 rounds
+AI player4 lost overall, but won 0 rounds

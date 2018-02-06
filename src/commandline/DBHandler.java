@@ -28,7 +28,7 @@ public class DBHandler
     }
     
     /**
-     * Close the current connection
+     * Close the current connection,statement and resultSet
      * 
      * @throws SQLException
      * 
@@ -54,27 +54,26 @@ public class DBHandler
         Statement st = null;
         try
         {
-            // try to execute following statements
             try
             {
                 con = getConnection();
                 st = con.createStatement();// create a  statement object
-                st.executeUpdate(sql);// update SQL and return an integer representing the number of rows affected by the SQL statement
+                st.executeUpdate(sql);// execute SQL to update database
             }
-            //clean up and close afterwards
+            // close afterwards
             finally
             {
                 close(con,st,null);
             }
         }
-        // if a specific exception was thrown, handle SQL exception through e.printStackTrace() method in order to print the throwable object and its backtrace to the standard error stream
         catch (SQLException e)
         {
             e.printStackTrace();
         }
     }
     
-    // declare  query statments of
+    // declare general query method from database
+	// item is the aliases in sql
     public int queryStats(String sql, String item)
     {
         Connection con = null;
@@ -93,24 +92,23 @@ public class DBHandler
                 // move cursor forward to next data
                 while (rs.next())
                 {
-                    stats = rs.getInt(item);//
+                    stats = rs.getInt(item);//get the data from database according to alias
                 }
             }
-            // when finish using statement, call statement.close to immediately release the resources it is using method, its ResultSet objects are closed.
+            // immediately release the resources 
             finally
             {
                 close(con,st,rs);
             }
             
         }
-        //
         catch (SQLException e)
         {
             e.printStackTrace();
         }
         return stats;
     }
-    // return average draw count from SQL
+    // return average draw count from database
     public double queryAvgDraw()
     {
         Connection con = null;

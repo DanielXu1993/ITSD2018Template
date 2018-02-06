@@ -74,7 +74,7 @@
     }
     // Method that is called on page load
     function initalize() {
-        $("#startButton").click();
+    	setTimeout(gameControl,300);
     }
 
     function gameControl() {
@@ -95,7 +95,6 @@
         
         $("#infomation").text("Round " + currentRound
                 + " : Players have drawn their cards");
-        //activeColor();
     }
     function categorySelection() {
     	$("#selection").removeClass("bg-success");
@@ -161,7 +160,7 @@
     }
 
     function showWinner(winnerIndex) {
-        $winner = $("<div class='card text-white bg-success'>"
+        $winner = $("<div class='card text-white bg-success' id = 'displayWinner'>"
                 + "<div class='card-body'>"
                 + "<button class='btn btn-success' onclick = 'nextRound("
                 + winnerIndex + ")'>SHOW WINNER</button>" + "</div></div>");
@@ -176,6 +175,7 @@
         	$("#cards").html("");	
     	}
     	else{
+    		storeResult();
     		$gameOver = $("<h5 class='card-title'>The game is over </h5>");            
             $("#activePlayer").parent().html($gameOver);
     		$gameInfo =$("<ul class='list-group'>"
@@ -183,9 +183,8 @@
 			+"onclick='gameSelect()'>CLICK TO RETURN TO THE SELECT SCREEN</li>"
 			+"<li class='list-group-item list-group-item-light'><pre class='card-text' style='text-align:left;white-space:pre-wrap;'>"+winnerInfo+"</pre></li></ul>");	
     		$("#selection").html($gameInfo);
-    		$("#cards").html("");
-    		setFirstCards();
-    		storeResult();
+    		$("#displayWinner").html("");
+            	$("#cards").text("");
     	}
         if (winnerIndex == -1) {
             $("#infomation").text(

@@ -183,8 +183,8 @@
 			+"onclick='gameSelect()'>CLICK TO RETURN TO THE SELECT SCREEN</li>"
 			+"<li class='list-group-item list-group-item-light'><pre class='card-text' style='text-align:left;white-space:pre-wrap;'>"+winnerInfo+"</pre></li></ul>");	
     		$("#selection").html($gameInfo);
-    		$(obj).parent().parent().html("");
     		$("#cards").html("");
+    		setFirstCards();
     		storeResult();
     	}
         if (winnerIndex == -1) {

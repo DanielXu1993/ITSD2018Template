@@ -53,24 +53,32 @@ public class TopTrumpsRESTAPI
     public TopTrumpsRESTAPI(TopTrumpsJSONConfiguration conf)
     {
         this.conf = conf;
-        //game = new GameHandler(conf.getDeckFile(), conf.getNumAIPlayers());
     }
     
+    /*
+     * read the information about the first card
+     */
     @GET
     @Path("/firstCards")
     public String firstCards()
         throws IOException
     {
+    		//define a list to collect the information about the cards
         List<String> listOfWords = new ArrayList<String>();
         for (String card : game.pickFirstCards())
         {
+        		//get the information about the card and add these cards into the list
             listOfWords.add(card);
         }
+        //write the values of these cards as String
         String listAsJSONString = oWriter.writeValueAsString(listOfWords);
         
-        return listAsJSONString;
+        return listAsJSONString;//return the list of values
     }
     
+    /*
+     * read the information about the category
+     */
     @GET
     @Path("/cateInfo")
     public String category()
@@ -78,31 +86,40 @@ public class TopTrumpsRESTAPI
     {
         List<String> listOfWords = new ArrayList<String>();
         for (String cateInfo : game.getCategoryDetail())
-        {
+        {	
+        		//get the information of different categories and add it into the list
             listOfWords.add(cateInfo);
         }
         String listAsJSONString = oWriter.writeValueAsString(listOfWords);
-        return listAsJSONString;
+        return listAsJSONString;//return the list of category information
     }
     
+    
+    /*
+     * read the parameter of the card count for each player
+     */
     @GET
     @Path("/cardCount")
     public String cardCount()
         throws IOException
-    {
+    {	
+    	
         List<String> listOfWords = new ArrayList<String>();
         for (String[] cards : game.getPlayersWithCards())
         {
-            int size = game.minNullIndex(cards);
+            int size = game.minNullIndex(cards);//get the card count for each player
             if (size == -1)
                 size = cards.length;
-            listOfWords.add(size + "");
+            listOfWords.add(size + "");//add the card count into the list
         }
         
         String listAsJSONString = oWriter.writeValueAsString(listOfWords);
-        return listAsJSONString;
+        return listAsJSONString;//get the list of card count for each player
     }
     
+    /*
+     * read the parameter of the player who still in game
+     */
     @GET
     @Path("/getCurrentPlayer")
     public String getCurrentPlayer()
@@ -112,6 +129,10 @@ public class TopTrumpsRESTAPI
         return listAsJSONString;
     }
     
+    
+    /*
+     * read the parameter of the current round number of the game
+     */
     @GET
     @Path("/getCurrentRound")
     public String getCurrentRound()
@@ -121,6 +142,9 @@ public class TopTrumpsRESTAPI
         return listAsJSONString;
     }
     
+    /*
+     * read the information about the AI option and get the result
+     */
     @GET
     @Path("/selectionAndResult")
     public String selectionAndResult(@QueryParam("index") int index)
@@ -139,31 +163,38 @@ public class TopTrumpsRESTAPI
         return listAsJSONString;
     }
     
+    /*
+     * read the information about the status of the game
+     */
     @GET
     @Path("/getRunStatus")
     public String getRunStatus()
         throws IOException
     {
-        return game.isRun() + "";
+        return game.isRun() + "";//return the status of game running
     }
     
+    /*
+     * read the information about how many cards in the communal pile
+     */
     @GET
     @Path("/communalPileLength")
     public String communalPileLength()
         throws IOException
     {
         int length = 0;
-        String[] communalPile = game.getCommunalPile();
+        String[] communalPile = game.getCommunalPile();//define the array to collect the card in the communal pile
         for (int i = 0; i < communalPile.length; i++)
         {
+        		//while there is no card in i of the array, it means that there are i cards in the communal pile 
             if (communalPile[i] == null)
             {
-                length = i;
+                length = i;//get the number of cards
                 break;
             }
         }
-        String listAsJSONString = oWriter.writeValueAsString(length + "");
-        return listAsJSONString;
+        String listAsJSONString = oWriter.writeValueAsString(length + "");//write into the list 
+        return listAsJSONString;//return the number of cards
     }
     
     @GET

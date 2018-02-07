@@ -6,7 +6,8 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-// aim to operate databases which procedures are equipped to estiblish a connection to SQL server, execute the SQL and close existing connections
+// aim to operate databases which procedures are equipped to estiblish a connection to SQL server, execute the SQL and
+// close existing connections
 public class DBHandler
 {
     public DBHandler()
@@ -15,7 +16,7 @@ public class DBHandler
     }
     
     public Connection getConnection()
-        //if a database access error occur
+        // if a database access error occur
         throws SQLException
     {
         Connection con = null;
@@ -33,23 +34,21 @@ public class DBHandler
      * @throws SQLException
      * 
      */
-    /** declare close class through connection variable and throw SQLException value; otherwise, it will occur NullReferenceExcepion error (object reference not set to an instance of an object) while the connection is not null in case of calling close() function
-     */
-    // release this ResultSet object's database and JDBC resources immediately instead of waiting for this to happen when it is automatically closed
-    public void close(Connection con,Statement st,ResultSet rs)
+    public void close(Connection con, Statement st, ResultSet rs)
         throws SQLException
     {
         if (con != null)
             con.close();
-		if (st != null)
+        if (st != null)
             st.close();
-		if (rs != null)
+        if (rs != null)
             rs.close();
     }
+    
     // declare to insert data into databases
     public void insert(String sql)
     {
-        //connections are likly to be null in general
+        // connections are likly to be null in general
         Connection con = null;
         Statement st = null;
         try
@@ -57,13 +56,13 @@ public class DBHandler
             try
             {
                 con = getConnection();
-                st = con.createStatement();// create a  statement object
+                st = con.createStatement();// create a statement object
                 st.executeUpdate(sql);// execute SQL to update database
             }
             // close afterwards
             finally
             {
-                close(con,st,null);
+                close(con, st, null);
             }
         }
         catch (SQLException e)
@@ -73,7 +72,7 @@ public class DBHandler
     }
     
     // declare general query method from database
-	// item is the aliases in sql
+    // item is the aliases in sql
     public int queryStats(String sql, String item)
     {
         Connection con = null;
@@ -92,13 +91,13 @@ public class DBHandler
                 // move cursor forward to next data
                 while (rs.next())
                 {
-                    stats = rs.getInt(item);//get the data from database according to alias
+                    stats = rs.getInt(item);// get the data from database according to alias
                 }
             }
-            // immediately release the resources 
+            // immediately release the resources
             finally
             {
-                close(con,st,rs);
+                close(con, st, rs);
             }
             
         }
@@ -108,6 +107,7 @@ public class DBHandler
         }
         return stats;
     }
+    
     // return average draw count from database
     public double queryAvgDraw()
     {
@@ -130,7 +130,7 @@ public class DBHandler
             }
             finally
             {
-                close(con,st,rs);
+                close(con, st, rs);
             }
             
         }
@@ -164,6 +164,7 @@ public class DBHandler
         String sql = " select max(totalround) longestGame from game ";
         return queryStats(sql, "longestGame");
     }
+    
     // summarize and display above information
     public String displayStats()
     {
@@ -175,7 +176,8 @@ public class DBHandler
         sb.append(String.format("%s%n", "Number of AI wins: " + queryAIWin()));
         sb.append(String.format("%s%.2f%n", "Average Draws per game: ", queryAvgDraw()));
         sb.append(String.format("%s%n", "Longest Game: " + queryLongestGame()));
-        // toString() method returns the string representation of the sb object, convert the value of this instance to a String (override object.toString)
+        // toString() method returns the string representation of the sb object, convert the value of this instance to a
+        // String (override object.toString)
         return sb.toString();
     }
 }

@@ -33,15 +33,23 @@
 
 <div class="container">
 
+	<!--this part is set fronts of "Top Trumps Game" style and back color-->
     <div class="col-sm-12" style="background-color: black; font-size: 30; color: white;">
         Top Trumps Game
     </div>
+    
+    <!--this is used by under title information's style, such as background color and fronts size and color-->
     <div class="col-sm-12" style="background-color: dodgerblue; font-size: 20; color: white;height:40" id="infomation"></div>
+    <!--a new line-->
     <br/>
+    
+    <!--set class "text-cneter"'s attribution-->
     <div class="row text-center">
+    		<!--control row's attribution included buttons and players' information-->
         <div class="col-sm-3" id="control">
             <button type="button" class="btn btn-success" id="startButton" onclick="gameControl()">NEXT ROUND</button>
         </div>
+        <!--this is set for row of cards' fronts size-->
         <div class="col-sm-9">
             <div class="row" id="cards"></div>
         </div>
@@ -49,18 +57,25 @@
     </div>
 </div>
 <script type="text/javascript">
-    var currentPlayer;
-    var category;
-    var cardNum;
-    var currentRound;
-    var drawNum;
-    var runStatus;
-    var winnerInfo;
-
+    var currentPlayer; // declared a user 
+    var category; // declared a category
+    var cardNum; // declared a card's number
+    var currentRound; // declared current round, like Round 1,etc
+    var drawNum;	 // declared draw number
+    var runStatus; // run or not, this program
+    var winnerInfo; // show winner's information
+	
+	/**
+	this method is used to when page load finished run a new game
+	*/
     $(function () {
     	newGame();
     })
 
+	/**
+	this method is used to load category's information first, and then get current player, card count and
+	draw number's information
+	*/
     function setValues()
     {
     	cateInfo();
@@ -70,34 +85,53 @@
         getRunStatus();
         
     }
+    
     // Method that is called on page load
     function initalize() {
     	setTimeout(gameControl,300);
     }
-
+	
+	/**
+	this method is used to game control basic configurations
+	*/
     function gameControl() {
+    		// set activePlayer's attribution, such as card title, body
         $activePlayer = $("<div class='card text-white bg-info'>"
                 + "<div class='card-body'><h5 class='card-title'>The active player is</h5><br/>"
                 + "<h5 class='card-text' id='activePlayer'></h5></div></div>");
+        // give id is control's tag for a value is activePlayer
         $("#control").html($activePlayer);
+        // this is used for select function, choose one of attribution to compared
         $select = $("<div class='card text-white bg-success' id = 'selection'>"
                 + "<div class='card-body'><button class='btn btn-success'"
                 + "onclick='categorySelection()'>NEXT:CATEGORY SELECTION</button></div></div>");
         $("#control").append($select);
+        /*do a judge, is there any players*/
         if (currentPlayer == 0) {
+        		// active player is you, only one
             $("#activePlayer").text("You");
         } else {
+        		// active players included AI players and current online players
             $("#activePlayer").text("AI Player " + currentPlayer);
         }
+        // show first cards
         setFirstCards();
         
+        // under title's line show information included which round, and some else text
         $("#infomation").text("Round " + currentRound
                 + " : Players have drawn their cards");
     }
+    
+    /**
+    this method is used to make sure category's selection
+    */
     function categorySelection() {
+    // after loading selection and remove class "bg-success"
     	$("#selection").removeClass("bg-success");
         if (currentPlayer == 0) {
+        		// random human player's card's values
             humanSelect = "<ul class='list-group list-group-flush'>";
+            // loading each values
             $.each(category, function (itemIndex, item) {
                 if (itemIndex != 0) {
                     humanSelect = humanSelect
@@ -107,7 +141,9 @@
                             + item.toUpperCase() + "</li>"
                 }
             });
+            // update humanSelect
             humanSelect = humanSelect + "</ul>";
+            // wait human player choose a category
             $("#infomation").text("Round " + currentRound
                     + " : Waitting on You to select a category");
             $("#selection").html(humanSelect);
@@ -139,8 +175,12 @@
         // We have done everything we need to prepare the CORS request, so send it
         xhr.send();
     }
-
+	
+	/**
+	this method is used to show specific information of selected
+	*/
     function showSelection(selectedIndex,roundWinnerIndex) {
+    		// loading selection information basic color information
         $selecctionInfo = $("<div class='card-body'><h5 class='card-title' style='color:black' >They selected</h5>"
                 + "<h5 class='card-text' style='color:black'>\""
                 + category[selectedIndex] + "\"</h5></div>");
@@ -156,6 +196,7 @@
         showWinner(roundWinnerIndex);
     }
 
+	// this method is used to show winner's information
     function showWinner(winnerIndex) {
         $winner = $("<div class='card text-white bg-success' id = 'displayWinner'>"
                 + "<div class='card-body'>"
@@ -165,8 +206,10 @@
         $(".AICards").css("visibility","visible");
     }
 
+	// this method is used to start a next round
     function nextRound(winnerIndex) {
     	if(runStatus){
+    		// set next round game
         	$("#control").html(
                 "<button type='button' class='btn btn-success' onclick='gameControl()'>NEXT ROUND</button>");
         	$("#cards").html("");	
@@ -176,6 +219,7 @@
             setTimeout(function(){
     		$gameOver = $("<h5 class='card-title'>The game is over </h5>");            
             $("#activePlayer").parent().html($gameOver);
+        // get game's information to read
     		$gameInfo =$("<ul class='list-group'>"
 			+"<li class='list-group-item bg-success' "
 			+"onclick='gameSelect()'>CLICK TO RETURN TO THE SELECT SCREEN</li>"
@@ -186,11 +230,13 @@
             },50);
           	storeResult();
     	}
+    		// no winner
         if (winnerIndex == -1) {
             $("#infomation").text("Round " + currentRound
                     + " : This was a Draw,common pile now has "
                     + drawNum + " cards");
         } else {
+        		// winner is human
             if (winnerIndex == 0) {
                 winnerName = "You";
             } else {
@@ -202,6 +248,7 @@
         }
         getCurrentRound(); 
     }
+    /**select model play a new game or overview the database*/
 	function gameSelect(){
 		window.location.href="/toptrumps";
 	}
@@ -254,28 +301,32 @@
         // to do when the response arrives
         xhr.onload = function (e) {
             var responseText = xhr.response; // the text of the response
-            var $firstCards = eval(responseText);
+            var $firstCards = eval(responseText); // the first cards of info
             $("#cards").text("");
             $.each($firstCards, function (index, card) {
-                var cardInfo = new Array();
+                var cardInfo = new Array(); // set card information is array
                 if (card != null) {
+                		// split by " "
                     cardInfo = card.split(" ");
-                    var playerCard = "";
+                    var playerCard = ""; // set playerCard is null
                     if (index == 0) {
+                    		// update playerCard
                         playerCard = playerCard
                                 + "<div class='col-sm-4'><div class='card text-white bg-danger' id = 'humanCard'>"
                                 + "<div class='card-body'>"
                                 + "<h5 class='card-title'>You</h5>"
                     } else {
+                    		// update playerCard
                         playerCard = playerCard
                                 + "<div class='col-sm-4 AICards' style = 'visibility:hidden'><div class='card text-white bg-danger' id = 'AICard"+index+"'>"
                                 + "<div class='card-body'>"
                                 + "<h5 class='card-title'>AI Player "
                                 + index + "</h5>"
                     }
+                    // update playerCard ones again
                     playerCard = playerCard
                             + "</div></div><div class='card text-black'><div class='card-body'>";
-
+					// loading cards by item index
                     $.each(cardInfo, function (itemIndex,item) {
                         if (itemIndex == 0) {
                             playerCard = playerCard
@@ -308,8 +359,8 @@
 
     function activeColor(){
 		if(currentPlayer == 0){
-			$("#humanCard").removeClass("bg-danger");
-			$("#humanCard").addClass("bg-success"); 
+			$("#humanCard").removeClass("bg-danger"); // rid mistake
+			$("#humanCard").addClass("bg-success"); // that means success
 		}else
 		{
 			$("#AICard"+currentPlayer).removeClass("bg-danger");

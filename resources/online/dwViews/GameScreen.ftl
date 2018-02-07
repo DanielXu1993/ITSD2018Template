@@ -59,8 +59,6 @@
 
     $(function () {
     	newGame();
-    	getCurrentRound();
-    	setValues();
     })
 
     function setValues()
@@ -135,16 +133,14 @@
             var responseText = xhr.response; // the text of the response
             var cateAndWinner = eval(responseText);
             setValues();
-            finalWinnerInfo();
-            showSelection(cateAndWinner[0]);
-            showWinner(cateAndWinner[1]);
+            setTimeout(function(){showSelection(cateAndWinner[0],cateAndWinner[1])},50);
         };
 
         // We have done everything we need to prepare the CORS request, so send it
         xhr.send();
     }
 
-    function showSelection(selectedIndex) {
+    function showSelection(selectedIndex,roundWinnerIndex) {
         $selecctionInfo = $("<div class='card-body'><h5 class='card-title' style='color:black' >They selected</h5>"
                 + "<h5 class='card-text' style='color:black'>\""
                 + category[selectedIndex] + "\"</h5></div>");
@@ -157,6 +153,7 @@
         }
         $("#infomation").text("Round " + currentRound + " : " + playerName + " selected "
                 + category[selectedIndex]);
+        showWinner(roundWinnerIndex);
     }
 
     function showWinner(winnerIndex) {
@@ -175,7 +172,8 @@
         	$("#cards").html("");	
     	}
     	else{
-    		storeResult();
+            finalWinnerInfo();
+            setTimeout(function(){
     		$gameOver = $("<h5 class='card-title'>The game is over </h5>");            
             $("#activePlayer").parent().html($gameOver);
     		$gameInfo =$("<ul class='list-group'>"
@@ -185,10 +183,11 @@
     		$("#selection").html($gameInfo);
     		$("#displayWinner").html("");
             	$("#cards").text("");
+            },50);
+          	storeResult();
     	}
         if (winnerIndex == -1) {
-            $("#infomation").text(
-                    "Round " + currentRound
+            $("#infomation").text("Round " + currentRound
                     + " : This was a Draw,common pile now has "
                     + drawNum + " cards");
         } else {
@@ -440,6 +439,8 @@
         // to do when the response arrives
         xhr.onload = function (e) {
             var responseText = xhr.response; // the text of the response
+            getCurrentRound();
+        	setValues();
         };
         // We have done everything we need to prepare the CORS request, so send it
         xhr.send();

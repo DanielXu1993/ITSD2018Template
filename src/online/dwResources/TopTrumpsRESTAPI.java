@@ -53,7 +53,7 @@ public class TopTrumpsRESTAPI
     public TopTrumpsRESTAPI(TopTrumpsJSONConfiguration conf)
     {
         this.conf = conf;
-        game = new GameHandler(conf.getDeckFile(), conf.getNumAIPlayers());
+        //game = new GameHandler(conf.getDeckFile(), conf.getNumAIPlayers());
     }
     
     @GET

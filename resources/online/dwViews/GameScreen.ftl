@@ -88,6 +88,8 @@
     
     // Method that is called on page load
     function initalize() {
+		// Wait for 300 milliseconds before executing the gameControl function
+		// to ensure  newGame() is finished
     	setTimeout(gameControl,300);
     }
 	

@@ -22,22 +22,25 @@ public class CommandGame
         category = game.getCategoryDetail();
         this.initFinalLog();
     }
-    // define the cardWithCate method to choose the card with category
+    /**
+     * the cardWithCate method aims to display card information that includes its category
+     */
     public String cardWithCate(String card)
     {
-        // define the array to store the card information
-        // card information is splited by a space
+        // define the array to store the card information split by a space
         String[] cardInfo = card.split(" ");
         // collect the card information here
-        // utilizing the StringBuilder is a principal operation to append the string representation of the cardInfo array elements to the method of cardWithCate
+        // utilizing the StringBuilder is a principal operation to append the String representation of the cardInfo array elements to the method of cardWithCate
         StringBuilder cardWithCate = new StringBuilder();
         for (int i = 0; i < cardInfo.length; i++)
         {
             if (i == 0)
                 cardWithCate.append(cardInfo[0]);
             else
+                // add cardInfo from String back to cardWithCate
                 cardWithCate.append("," + category[i] + ":" + cardInfo[i]);
         }
+        // return String "card" back to cardWithCate method
         return cardWithCate.toString();
     }
     
@@ -70,7 +73,7 @@ public class CommandGame
             // get the number of player's choice
             sb.append("," + category[i]);
         }
-        // delete charactor at index 0
+        // delete a charactor "," from integer and return to sb
         sb.deleteCharAt(0);
         System.out.print("input a category: " + sb);
         // input.next() inputs value of a string variable "categotyName", and trim() eliminates leading and trailing spaces

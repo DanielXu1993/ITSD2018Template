@@ -221,7 +221,7 @@
             setTimeout(function(){
     		$gameOver = $("<h5 class='card-title'>The game is over </h5>");            
             $("#activePlayer").parent().html($gameOver);
-        // get game's information to read
+			// get game's information to read
     		$gameInfo =$("<ul class='list-group'>"
 			+"<li class='list-group-item bg-success' "
 			+"onclick='gameSelect()'>CLICK TO RETURN TO THE SELECT SCREEN</li>"
@@ -492,7 +492,7 @@
         // to do when the response arrives
         xhr.onload = function (e) {
             var responseText = xhr.response; // the text of the response
-            getCurrentRound();
+			getCurrentRound();
         	setValues();
         };
         // We have done everything we need to prepare the CORS request, so send it

@@ -23,7 +23,7 @@ public class DBHandler
         
         // Get database Connection
         con = DriverManager.getConnection(
-            "jdbc:postgresql://127.0.0.1:5432/" + "toptrumps", "postgres", "root");
+            "jdbc:postgresql://127.0.0.1:5432/"+"toptrumps","postgres","root");
         
         return con;
     }
